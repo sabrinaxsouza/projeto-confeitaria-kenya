@@ -39,10 +39,10 @@ Os requisitos do projeto foram definidos com base no escopo acordado no Termo de
 ### Requisitos Funcionais (O que o site FAZ)
 
 * **RF01:** O site deve possuir uma página inicial para a apresentação da marca da confeitaria[cite: 65].
-* **RF02:** O site deve exibir um catálogo de produtos, como bolos e doces, contendo descrições e imagens para cada item[cite: 65].
-* **RF03:** O site deve disponibilizar um formulário para que os clientes possam realizar seus pedidos por encomenda[cite: 66].
-* **RF04:** O site deve apresentar as informações de contato da confeitaria e os links para suas redes sociais[cite: 66].
-* **RF05:** O site deve incluir uma página ou seção destinada a exibir depoimentos de clientes satisfeitos[cite: 66].
+* **RF02:** O site deve exibir um catálogo de produtos, como bolos e doces, contendo descrições e imagens para cada item.
+* **RF03:** O site deve disponibilizar um formulário para que os clientes possam realizar seus pedidos por encomenda.
+* **RF04:** O site deve apresentar as informações de contato da confeitaria e os links para suas redes sociais.
+* **RF05:** O site deve incluir uma página ou seção destinada a exibir depoimentos de clientes satisfeitos.
 
 ### Requisitos Não Funcionais (Como o site É)
 
