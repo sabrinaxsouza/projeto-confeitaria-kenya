@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encomendas - Kenya Santos Bolos e Doces</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://kit.fontawesome.com/a9d5203595.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+    <header class="main-header">
+        <div class="container">
+            <a href="index.html" class="logo-link"><img src="imagens/logo.jpeg" alt="Logo" class="logo"></a>
+            <div class="nav-center">
+                <nav class="main-nav">
+                    <ul>
+                        <li><a href="index.html">Início</a></li>
+                        <li><a href="catalogo.html">Catálogo</a></li>
+                        <li><a href="encomendas.html" class="current-page">Encomendas</a></li>
+                       <li><a href="contato.html">Contato</a></li>
+                    </ul>
+                </nav>
+            </div>
+            <p class="header-brand-name">Kenya Santos</p>
+        </div>
+    </header>
+
+    <main>
+        <section class="order-page">
+            <div class="container">
+                <h2 class="order-title">Faça sua Encomenda</h2>
+                <p class="order-subtitle">Preencha o formulário abaixo com os detalhes do seu pedido. Entraremos em contato para confirmar tudo!</p>
+                
+                <form class="order-form" id="order-form">
+                    <div class="form-group">
+                        <label for="name">Seu Nome Completo</label>
+                        <input type="text" id="name" name="name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="phone">Seu Telefone (WhatsApp)</label>
+                        <input type="tel" id="phone" name="phone" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="order-details">Seu Pedido (Descreva os bolos, doces e quantidades)</label>
+                        <textarea id="order-details" name="order-details" rows="8" placeholder="Ex: 1 Bolo Ninho com Nutella (2kg) e 50 Brigadeiros Gourmet." required></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label>Preferência de Entrega</label>
+                        <div class="radio-group">
+                            <label><input type="radio" name="delivery" value="Retirada" checked> Vou Retirar no Local</label>
+                            <label><input type="radio" name="delivery" value="Entrega"> Quero que Entregue</label>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="event-date">Data do Evento/Retirada</label>
+                        <input type="date" id="event-date" name="event-date" required>
+                    </div>
+                    
+                    <button type="submit" class="btn-submit">Finalizar e Enviar para o WhatsApp</button>
+                </form>
+
+            </div>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <div class="container">
+            <p class="footer-phrase">"Transformando açúcar em arte, e momentos em doces memórias."</p>
+            <div class="social-icons">
+                <a href="https://instagram.com/kenyasantoscakes2" target="_blank" title="Instagram"><i class="fa-brands fa-instagram"></i></a>
+                <a href="https://api.whatsapp.com/send?phone=5531997204144&text=Olá!%20Vim%20pelo%20site%20e%20gostaria%20de%20fazer%20uma%20encomenda." target="_blank" title="WhatsApp"><i class="fa-brands fa-whatsapp"></i></a>
+            </div>
+            <p>&copy; 2025 Kenya Santos - Bolos e Doces. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
