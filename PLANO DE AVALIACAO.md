@@ -41,3 +41,29 @@ Conforme a especificação do projeto, serão utilizados os seguintes métodos:
 * As métricas dos questionários (SUS, UMUX, PSSUQ) serão calculadas e apresentadas em gráficos.
 * As observações qualitativas (comentários e dificuldades dos usuários) serão compiladas e analisadas para identificar pontos de melhoria no design.
 * Os resultados serão consolidados em uma seção final do relatório do projeto.
+
+---
+
+# Termo de Consentimento Livre e Esclarecido (TCLE)
+
+**Título do Projeto:** Avaliação de Usabilidade do Website da Confeitaria Kenya Santos.
+
+**Pesquisadores Responsáveis:** Sabrina Cristina, Kayky Silveira, Fabrício Fialho, Carlos Henrique, Victor Emanuel (Membros da CodeWave).
+
+**Instituição:** Centro Universitário de Viçosa (UNIVIÇOSA)
+
+Prezado(a) participante,
+
+Você está sendo convidado(a) a participar de um teste de usabilidade que faz parte de um projeto acadêmico do curso de Análise e Desenvolvimento de Sistemas. O objetivo deste estudo é avaliar a facilidade de uso de um protótipo de site para uma confeitaria.
+
+Sua participação consistirá em realizar algumas tarefas simples no protótipo enquanto observamos suas interações. Não há respostas certas ou erradas; estamos testando o sistema, e não você. A sessão levará aproximadamente 30 minutos.
+
+Os dados coletados serão tratados com total confidencialidade e utilizados apenas para fins acadêmicos neste projeto. Sua identidade não será revelada no relatório final. A participação é totalmente voluntária, e você tem o direito de desistir a qualquer momento, sem qualquer prejuízo.
+
+Se você tiver qualquer dúvida, pode entrar em contato conosco.
+
+Eu, __________________________________________________________, declaro que li e entendi as informações acima e concordo em participar voluntariamente deste estudo.
+
+**Data:** ____/____/______
+
+**Assinatura do Participante:** _________________________________________
