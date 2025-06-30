@@ -51,5 +51,5 @@ Após a validação da estrutura com os wireframes, avançamos para o protótipo
 * **(IMAGEM DO SEU PROTÓTIPO 'HI-FI' DO FORMULÁRIO AQUI)**
 * **Descrição:** O formulário foi estilizado com cores suaves e campos bem definidos para não sobrecarregar o usuário. A tipografia garante que todos os rótulos sejam fáceis de ler, e o botão de envio se destaca para indicar claramente a ação final.
 
-*(... adicione seções para as outras telas de alta fidelidade que vocês criaram ...)*
+
 
