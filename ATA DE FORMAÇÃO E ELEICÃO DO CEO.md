@@ -18,17 +18,19 @@
 3.  Votação e apuração dos votos para o cargo de CEO.
 4.  Definição dos próximos passos do projeto.
 
-**Deliberações e Decisões:**
+### Deliberações e Decisões:
 
-    * **Item 1 - Identidade da Empresa:** Após discussão em grupo, ficou definida a seguinte identidade para a empresa, que será documentada formalmente:
+* **Item 1 - Identidade da Empresa:** Após discussão em grupo, ficou definida a seguinte identidade para a empresa:
     * **Nome:** CodeWave
     * **Slogan:** Programando o futuro, hoje.
     * **Missão:** Transformar ideias em soluções digitais eficientes, escaláveis e sob medida.
 
-    * **Item 2 e 3 - Eleição do CEO:** Ocorreu a votação para o cargo de CEO, que não poderá ser alterado durante o projeto. O resultado apurado foi:
-    * **Candidato(a) [Victor]:** ] votos.
+* **Item 2 e 3 - Eleição do CEO:** Ocorreu a votação para o cargo de CEO, que não poderá ser alterado durante o projeto. O resultado apurado foi:
+    * **Candidato(a) [Victor]:** [1] votos.
     * **Candidato(a) [Sabrina]:** [4] votos.
     * **Resultado:** Com a maioria dos votos, foi eleito(a) como CEO o(a) membro(a) **[Sabrina]**.
+
+* **Item 4 - Próximos Passos:** O CEO definiu que os próximos passos serão a criação da tabela de rodízio de papéis e o início da elaboração do Termo de Aceite para a cliente Kenya dos Santos.
 
 * **Item 4 - Próximos Passos:** O CEO definiu que os próximos passos serão a criação da tabela de rodízio de papéis e o início da elaboração do Termo de Aceite para a cliente Kenya dos Santos.
 
