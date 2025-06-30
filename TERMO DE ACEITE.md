@@ -1,4 +1,4 @@
-# [cite_start]TERMO DE ACEITE [cite: 63]
+# TERMO DE ACEITE
 
 **Empresa:** CodeWave
 **Slogan:** Programando o futuro, hoje. 
