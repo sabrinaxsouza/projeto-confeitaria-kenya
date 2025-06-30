@@ -1,40 +1,33 @@
-# Projeto Integrador: Website da Confeitaria Kenya Santos
+# Relatório Completo do Projeto: Website Confeitaria Kenya Santos
 
-Este documento é o relatório completo do projeto desenvolvido para a disciplina de ADS 501 - Design de Interação e Projeto Integrador.
+Bem-vindo ao relatório central do projeto de desenvolvimento do website para a Confeitaria Kenya Santos, realizado pela empresa CodeWave como parte do Projeto Integrador da disciplina de ADS 501.
 
-## 1. Documentos da Empresa "CodeWave"
+Navegue pelas seções abaixo para acessar todos os artefatos e documentos gerados durante o ciclo de vida do projeto.
 
-* [Ata de Fundação da Empresa e Eleição do CEO](#)
-* [Identidade Corporativa (Missão, Slogan e Logo)](#)
-* [Tabela de Papéis por Sprint](#)
+---
 
-## 2. Análise do Cliente e do Problema
+### 1. Documentos de Fundação e Gestão da Empresa
+* [Ata de Fundação e Eleição do CEO](ATA%20DE%20FORMA%C3%87%C3%83O%20E%20ELEI%C3%87%C3%83O%20DO%20CEO.md)
+* [Tabela de Papéis por Sprint](TABELA%20DE%20PAPEIS.md)
+* [Tabela de Decisões do Projeto](TABELA%20DE%20DECISOES.md)
 
-* [Canva de Negócio](#)
-* [Mapa de Empatia e Persona](#)
-* [Modelo de Negócio](#)
+### 2. Análise do Cliente e do Negócio
+* [Business Model Canvas](CANVA%20DE%20NEGOCIO.md)
+* [Mapa de Empatia e Persona da Cliente](MAPA%20DE%20EMPATIA%20E%20PERSONA.md)
 
-## 3. Escopo e Requisitos do Projeto
+### 3. Escopo e Requisitos do Projeto
+* [Análise do Problema, Solução Proposta e Requisitos](PROBLEMAS%20E%20REQUISITOS.md)
+* [Termo de Aceite](TERMO%20DE%20ACEITE.md)
 
-* [Descrição do Problema e da Solução](#)
-* [Descrição dos Requisitos](#)
-* [Termo de Aceite](#)
+### 4. Design e Protótipos
+* [Protótipos de Baixa e Alta Fidelidade](PROTOTIPOS.md)
 
-## 4. Design e Protótipos
+### 5. Validação e Testes
+* [Plano de Avaliação de Usabilidade](PLANO%20DE%20AVALIACAO.md)
 
-* [Protótipo de Baixa Fidelidade](#)
-* [Protótipo de Alta Fidelidade](#)
+### 6. Documentos Finais de Entrega
+* [Roteiro do Pitch de Venda](ROTEIRO-PITCH.md)
+* [Termo de Encerramento do Projeto](TERMO%20DE%20ENCERRAMENTO.md)
 
-## 5. Registros do Projeto
-
-* [Tabela de Decisões](#)
-* [Atas das Reuniões](#)
-
-
-
-* **Item 4 - Próximos Passos:** O CEO definiu que os próximos passos serão a criação da tabela de rodízio de papéis e o início da elaboração do Termo de Aceite para a cliente Kenya dos Santos.
-
-A reunião foi encerrada às 20:15.
-
-**Assinaturas:**
-* [Sabrina Souza], CEO
+---
+*Este relatório é o artefato central que consolida todas as entregas do projeto. Para uma visão geral, consulte também o arquivo [LEIA-ME](README.md).*
