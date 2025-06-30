@@ -20,9 +20,9 @@ Os wireframes foram criados para definir a estrutura básica do site, o layout d
 * **(IMAGEM DO SEU WIREFRAME DO FORMULÁRIO AQUI)**
 * **Descrição:** O formulário foi projetado para ser simples e direto, coletando todas as informações essenciais para a encomenda (nome, contato, detalhes do pedido, data) de forma organizada.
 
-*(... adicione seções para as outras telas que vocês desenharem ...)*
+
 
 ---
 
 ## 2. Protótipo de Alta Fidelidade
-*(Esta seção preencheremos depois, quando chegarmos lá)*
+
