@@ -30,26 +30,6 @@ Este documento é o relatório completo do projeto desenvolvido para a disciplin
 * [Tabela de Decisões](#)
 * [Atas das Reuniões](#)
 
----
-
-### **Ata de Fundação da Empresa e Eleição do CEO**
-
-**Data:** 15 de Abril de 2025
-**Horário de Início:** 19:00
-**Local:** Reunião online via Discord
-
-**Membros Presentes:**
-* Sabrina Cristina
-* Kayky Silveira
-* Fabricio Fialho
-* Carlos Henrique
-* Victor Emanuel
-
-**Pauta da Reunião:**
-1.  Definição do nome, slogan e missão da empresa.
-2.  Apresentação dos candidatos ao cargo de CEO.
-3.  Votação e apuração dos votos para o cargo de CEO.
-4.  Definição dos próximos passos do projeto.
 
 
 * **Item 4 - Próximos Passos:** O CEO definiu que os próximos passos serão a criação da tabela de rodízio de papéis e o início da elaboração do Termo de Aceite para a cliente Kenya dos Santos.
