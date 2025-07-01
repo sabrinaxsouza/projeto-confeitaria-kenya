@@ -9,7 +9,8 @@ Nesta seção, apresentamos os protótipos de baixa e alta fidelidade desenvolvi
 Os wireframes foram criados para definir a estrutura básica do site, o layout das informações e o fluxo de navegação do usuário, sem focar em elementos visuais como cores e tipografia.
 
 ### Tela: Página Inicial
-* **(IMAGEM DO SEU WIREFRAME DA PÁGINA INICIAL AQUI)**
+* ![image](https://github.com/user-attachments/assets/08966009-3a37-41d1-895f-a4e81678894a)
+
 * **Descrição:** A página inicial foi pensada para apresentar a marca logo de cara, com um banner principal atrativo e chamadas para as seções mais importantes, como o catálogo e a história da confeiteira.
 
 ### Tela: Catálogo de Produtos
