@@ -1,8 +1,3 @@
-# Protótipos de Interface
-
-Nesta seção, apresentamos os protótipos de baixa e alta fidelidade desenvolvidos no Figma para a solução do website da Confeitaria Kenya Santos.
-
----
 
 # Protótipos de Interface
 
