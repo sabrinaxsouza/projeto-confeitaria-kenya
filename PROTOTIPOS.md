@@ -4,14 +4,20 @@ Nesta seção, apresentamos os protótipos de baixa e alta fidelidade desenvolvi
 
 ---
 
+# Protótipos de Interface
+
+Nesta seção, apresentamos a evolução do design da interface, desde os conceitos estruturais iniciais até o protótipo de alta fidelidade desenvolvido no Figma.
+
+---
+
 ## 1. Protótipo de Baixa Fidelidade (Wireframes)
 
-Os wireframes foram criados para definir a estrutura básica do site, o layout das informações e o fluxo de navegação do usuário, sem focar em elementos visuais como cores e tipografia.
+A fase de prototipação de baixa fidelidade consistiu em uma série de rascunhos rápidos e discussões de layout para definir a estrutura fundamental do site. Para agilizar o processo e validar a direção visual da marca de forma mais eficaz com a cliente, a equipe optou por evoluir esses rascunhos diretamente para um conceito visual de alta fidelidade.
 
-### Tela: Página Inicial
-* ![image](https://github.com/user-attachments/assets/08966009-3a37-41d1-895f-a4e81678894a)
+A imagem abaixo representa a primeira versão de alta fidelidade da tela de entrada, que serviu como base para o desenvolvimento do restante da identidade visual e validação do conceito com a cliente.
 
-* **Descrição:** A página inicial foi pensada para apresentar a marca logo de cara, com um banner principal atrativo e chamadas para as seções mais importantes, como o catálogo e a história da confeiteira.
+![Conceito Visual da Tela de Cadastro](lo-fi-home.jpg)
+
 
 ### Tela: Catálogo de Produtos
 * **(IMAGEM DO SEU WIREFRAME DO CATÁLOGO AQUI)**
@@ -22,10 +28,6 @@ Os wireframes foram criados para definir a estrutura básica do site, o layout d
 * **Descrição:** O formulário foi projetado para ser simples e direto, coletando todas as informações essenciais para a encomenda (nome, contato, detalhes do pedido, data) de forma organizada.
 
 
-
----
-
----
 
 ## 2. Protótipo de Alta Fidelidade (Hi-Fi)
 
