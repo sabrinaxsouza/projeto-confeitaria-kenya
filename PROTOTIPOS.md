@@ -11,7 +11,7 @@ A fase de prototipação de baixa fidelidade consistiu em uma série de rascunho
 
 A imagem abaixo representa a primeira versão de alta fidelidade da tela de entrada, que serviu como base para o desenvolvimento do restante da identidade visual e validação do conceito com a cliente.
 
-![Conceito Visual da Tela de Cadastro](prototipos-finais/lo-fi-home.jpg)
+![Conceito Visual da Tela de Cadastro](prototipos-finais/lo-fi-home.png)
 
 
 ### Tela: Catálogo de Produtos
