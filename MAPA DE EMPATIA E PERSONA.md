@@ -48,9 +48,6 @@ Este mapa nos ajuda a obter um entendimento profundo da nossa cliente, a confeit
 
 # Persona - Kenya, a Doceira Sonhadora
 
-![Foto de uma mulher confeiteira sorrindo em sua cozinha](https://images.unsplash.com/photo-1606202479951-64265e3bce55?q=80&w=1887&auto=format&fit=crop)
-*(Obs: Esta é uma imagem de representação)*
-
 * **Nome:** Kenya Santos
 * **Idade:** 32 anos
 * **Profissão:** Confeiteira Autônoma e Empreendedora
