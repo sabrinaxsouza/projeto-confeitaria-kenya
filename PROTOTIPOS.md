@@ -37,11 +37,14 @@ Após a validação da estrutura com os wireframes, avançamos para o protótipo
 * **Imagens e Estilo Visual:** A direção de arte para as imagens prioriza fotos profissionais, bem iluminadas e que realçam a textura e a beleza dos produtos, com o objetivo de despertar o desejo no cliente.
 * **Componentes e Ícones:** Foi criado um sistema de design consistente para botões, campos de formulário e ícones, garantindo uma experiência de usuário coesa e intuitiva em todas as páginas.
 
-### Telas do Protótipo de Alta Fidelidade
 
-#### Tela: Página Inicial
-* **(IMAGEM DO SEU PROTÓTIPO 'HI-FI' DA PÁGINA INICIAL AQUI)**
-* **Descrição:** A página inicial agora ganha vida com a aplicação da identidade visual. O banner principal utiliza uma foto de alta qualidade de um dos principais bolos da Kenya. Os "Call-to-Actions" (botões) possuem cores de destaque para guiar o usuário de forma clara.
+
+### Tela: Página Inicial (Alta Fidelidade)
+![Protótipo de Alta Fidelidade da Página Inicial](prototipos-finais/hifi-home.png)
+* **Descrição:** Esta versão da página inicial de alta fidelidade foi projetada para ser limpa, elegante e convidativa, com foco em apresentar os produtos e a essência da marca "Kenya Santos". A estrutura é composta por três áreas principais:
+    * **Navegação Principal:** No topo, um cabeçalho minimalista oferece links claros e diretos para as seções essenciais do site ("Início", "Catálogo", "Encomendas", "Contato"), garantindo uma navegação fácil e intuitiva para o usuário.
+    * **Título de Impacto:** A frase central "Feitos com Amor e Carinho" funciona como o principal slogan da página, comunicando o diferencial da marca: o cuidado, a qualidade e o toque artesanal de cada produto.
+    * **Seção de Produtos em Destaque:** Logo abaixo, uma grade visual apresenta quatro dos principais produtos da confeitaria. Cada item é exibido com uma imagem profissional de alta qualidade, seu nome e uma breve descrição. O objetivo desta seção é despertar o interesse imediato do cliente e incentivá-lo a explorar o catálogo completo. A paleta de cores suaves (tons de bege e rosa) reforça a sensação de sofisticação e carinho da marca.
 
 #### Tela: Catálogo de Produtos
 * **(IMAGEM DO SEU PROTÓTIPO 'HI-FI' DO CATÁLOGO AQUI)**
